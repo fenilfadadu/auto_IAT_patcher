@@ -1,0 +1,4 @@
+-I/home/fenil/Desktop/thesis/ignore_it/auto_IAT_patcher/bearparser/parser/include
+-o
+/home/fenil/Desktop/thesis/ignore_it/auto_IAT_patcher/build/patcher/moc_FuncReplacements.cpp
+/home/fenil/Desktop/thesis/ignore_it/auto_IAT_patcher/patcher/FuncReplacements.h
