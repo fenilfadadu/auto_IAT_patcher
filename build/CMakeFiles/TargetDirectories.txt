@@ -1,8 +1,0 @@
-/home/fenil/Desktop/thesis/ignore_it/auto_IAT_patcher/build/CMakeFiles/rebuild_cache.dir
-/home/fenil/Desktop/thesis/ignore_it/auto_IAT_patcher/build/CMakeFiles/edit_cache.dir
-/home/fenil/Desktop/thesis/ignore_it/auto_IAT_patcher/build/bearparser/parser/CMakeFiles/rebuild_cache.dir
-/home/fenil/Desktop/thesis/ignore_it/auto_IAT_patcher/build/bearparser/parser/CMakeFiles/bearparser.dir
-/home/fenil/Desktop/thesis/ignore_it/auto_IAT_patcher/build/bearparser/parser/CMakeFiles/edit_cache.dir
-/home/fenil/Desktop/thesis/ignore_it/auto_IAT_patcher/build/patcher/CMakeFiles/rebuild_cache.dir
-/home/fenil/Desktop/thesis/ignore_it/auto_IAT_patcher/build/patcher/CMakeFiles/IAT_Patcher.dir
-/home/fenil/Desktop/thesis/ignore_it/auto_IAT_patcher/build/patcher/CMakeFiles/edit_cache.dir
